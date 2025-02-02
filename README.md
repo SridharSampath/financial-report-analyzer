@@ -9,11 +9,11 @@ The system allows users to **upload financial reports (PDFs)** and extract **key
 
 ### 1️⃣ **Clone the Repository**  
 
-### 2️⃣ ** Install Dependencies**  
+### 2️⃣ Install Dependencies
 
-### 3️⃣ ** Download LLMs (DeepSeek R1 & Llama)**  
+### 3️⃣ Download LLMs (DeepSeek R1 & Llama)
 
-### ** ▶️ Running the Application**  
+### ▶️ Running the Application 
 
 🖼️ System Architecture
 The following diagram illustrates how Streamlit, LangChain, FAISS, DeepSeek R1, Llama, and Ollama work together to power the financial analysis system.
