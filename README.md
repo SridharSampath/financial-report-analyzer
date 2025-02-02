@@ -7,7 +7,7 @@ The system allows users to **upload financial reports (PDFs)** and extract **key
 
 ---
 
-### 1️⃣ **Clone the Repository**  
+### 1️⃣ Clone the Repository
 
 ### 2️⃣ Install Dependencies
 
