@@ -13,6 +13,7 @@ The system allows users to **upload financial reports (PDFs)** and extract **key
 ```bash
 git clone <your-repo-url>
 cd <your-repo-folder>
+### 1️⃣ **Clone the Repository**  
 pip install -r requirements.txt
 
 ollama pull deepseek-r1:1.5b  
