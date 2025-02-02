@@ -19,3 +19,4 @@ The system allows users to **upload financial reports (PDFs)** and extract **key
 The following diagram illustrates how Streamlit, LangChain, FAISS, DeepSeek R1, Llama, and Ollama work together to power the financial analysis system.
 
 
+![Blank diagram (2)](https://github.com/user-attachments/assets/d6f7f5d7-879b-470a-bb79-7bfd02f9a467)
